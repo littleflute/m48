@@ -1,4 +1,4 @@
-[v0.0.6](https://github.com/littleflute/m48/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/m48/edit/master/README.md)
 
 [Guitar recital/cd1](Guitar recital/cd1)
 
@@ -9,3 +9,5 @@
 [The adventures of Tintin/cd](The adventures of Tintin/cd)
 
 [John Williams plays the movies/cd](John Williams plays the movies/cd)
+
+[The guitarist/cd](The guitarist/cd)

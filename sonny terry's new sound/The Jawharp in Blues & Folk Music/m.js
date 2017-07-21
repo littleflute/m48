@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Shortnin' Bread.mp3";		
+f[2]	= "02 Oh, What A Beautiful City.mp3";		
+f[3]	= "03 Whoop and Holler.mp3";		
+f[4]	= "04 My Baby's Gone.mp3";		
+f[5]	= "05 Dirty Mistreater.mp3";		
+f[6]	= "06 Pick a Bale of Cotton.mp3";		
+f[7]	= "07 I've Been Your Doggie Since I've Been Your Man.mp3";		
+f[8]	= "08 Skip to My Lou.mp3";		
+f[9]	= "09 Crow Jane.mp3";		
+f[10]	= "10 Blues From Everywhere.mp3";		
+f[11]	= "11 Fox Chase.mp3";		
+f[12]	= "12 Harmonica Blues.mp3";		
+f[13]	= "13 Bottle Up and Go.mp3";		

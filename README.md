@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m48/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m48/edit/master/README.md)
 
 [Guitar recital/cd1](Guitar recital/cd1)
 
@@ -11,3 +11,9 @@
 [John Williams plays the movies/cd](John Williams plays the movies/cd)
 
 [The guitarist/cd](The guitarist/cd)
+
+[Vitoria suite/cd1](Vitoria suite/cd1)
+
+[Vitoria suite/cd2](Vitoria suite/cd2)
+
+[Vitoria suite/dvd](Vitoria suite/dvd)

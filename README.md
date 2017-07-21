@@ -1,4 +1,4 @@
-[v0.0.8](https://github.com/littleflute/m48/edit/master/README.md)
+[v0.0.9](https://github.com/littleflute/m48/edit/master/README.md)
 
 [Guitar recital/cd1](Guitar recital/cd1)
 
@@ -17,3 +17,5 @@
 [Vitoria suite/cd2](Vitoria suite/cd2)
 
 [Vitoria suite/dvd](Vitoria suite/dvd)
+
+[sonny terry's new sound/The Jawharp in Blues & Folk Music](sonny terry's new sound/The Jawharp in Blues & Folk Music)
